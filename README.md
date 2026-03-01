@@ -2,10 +2,6 @@
 
 Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript puro.
 
-## 📸 Preview
-
-![Calculadora](./preview.png)
-
 ## 🚀 Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão

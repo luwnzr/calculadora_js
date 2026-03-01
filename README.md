@@ -4,7 +4,7 @@ Uma calculadora funcional desenvolvida com HTML, CSS e JavaScript puro.
 
 ## 📸 Preview
 
-![Calculadora](.Galeria/Captura_de_tela_2026-02-28_212832.png)
+![Calculadora](./preview.png)
 
 ## 🚀 Funcionalidades
 
